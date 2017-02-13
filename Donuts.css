@@ -1,0 +1,55 @@
+h1 {
+    font-size: 30px;
+
+    display: block;
+      margin: 0 auto;
+      padding-left: 100px;
+  }
+body {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 10px;
+  margin: 0px auto auto auto;
+  width: 90%;
+  max-width: 800px;
+}
+  .Warning {
+    border: hidden;
+    background-clip: content-box;
+    background-color: red;
+    color: white;
+    font-style: serif;
+    font-size: 25px;
+}
+img{
+  float: auto;
+  width: 35%;
+  height: 30%;
+}
+
+.mark {
+  background-color: red;
+  color: white;
+}
+p {
+  font-family: Serif;
+  font-size: 25px;
+  padding: 0px 0px 0px 100px;
+}
+.bold {
+  font-weight: bold;
+}
+.Fact {
+  border-style: ridge;
+  border-left: white;
+  border-right: white;
+  font-family: serif;
+}
+
+aside blockquote {
+	width: 80%;
+	color: white;
+	margin: 10px auto 20px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 0.9em;
+}
